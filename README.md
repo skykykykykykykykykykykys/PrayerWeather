@@ -1,8 +1,9 @@
 # PrayerWeather
 A website that display the weather, temperature, and prayer's time for any cities\
+\
 Application : [https://prayer-weather.herokuapp.com/](https://prayer-weather.herokuapp.com/)\
 \
-Ariq Radhitama Ariasatya - 18217017
+Ariq Radhitama Ariasatya - 18217017\
 Ismail Faizal Aziz - 18217024
 
 **API**:

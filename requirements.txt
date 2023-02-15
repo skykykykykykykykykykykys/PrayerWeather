@@ -45,6 +45,6 @@ Twisted==22.1.0
 urllib3==1.24.3
 virtualenv==16.7.6
 w3lib==1.21.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 whitenoise==4.1.4
 zope.interface==4.6.0
